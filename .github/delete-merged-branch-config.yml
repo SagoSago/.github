@@ -2,4 +2,5 @@ exclude:
     - master
     - staging
     - production
+    - release*
 delete_closed_pr: false
